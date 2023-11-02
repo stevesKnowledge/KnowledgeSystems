@@ -1,0 +1,42 @@
+#
+# Obsidian Gitignore File 
+#
+
+# Exclude: Current Theme and IDE settings
+.obsidian/appearance.json     
+
+# Commit: Contains default file locations for our Zettelkasten system
+# .obsidian/app.json            
+
+# Commit: Plugins 
+# .obsidian/community-plugins.json
+# .obsidian/core-plugins-migration.json
+# .obsidian/core-plugins.json
+# .obsidian/plugins/pluginfolders/*
+*Icon*
+
+# Exclude: Graph contents (volatile)
+.obsidian/graph.json
+
+# Commit: hotkeys?? (Cross Platform?)
+# .obsidian/hotkeys.json
+
+# Commit: Templates folder location
+# .obsidian/templates.json
+
+# Exclude: Theme Info
+.obsidian/themes/*
+
+# Exclude: Obsidian Temp files:
+#.tmp/
+.tmp.*
+
+
+# Exclude: Obsidian workspace (Open files, Ui State)
+.obsidian/workspace.json
+
+
+# Exclude OSX Temp files
+.trash/
+.DS_STORE
+
