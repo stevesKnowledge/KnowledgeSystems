@@ -55,6 +55,8 @@ Format: text files, wiki syntax
 Sync:  They primarily expect people to use GitHub, but any text sync methods ( See [Notion section](#Notion) of this page  )
 Platforms: Expects you to use Obsidian or a markdown editor such as Typora. 
 
+![[massive-wiki-conceptual-diagram-20210425.png|200x300]]
+
 # Markdown Editors 
 These systems are more limited 
 Typora

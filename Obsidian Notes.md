@@ -22,3 +22,9 @@ I often expect these apps to work like Word or Google Docs.  Markdown is not qui
 * Link to internal anchor:   See [Obsidian: internal Links](https://help.obsidian.md/Linking+notes+and+files/Internal+links) .  
 	*  Syntax:  [ [ Note Heading # internal anchor name] ]
 	*  Example [[Obsidian Notes#Things to learn about Obsidian]] 
+	  
+* **Images**.  To display an image use one of 
+	* TODO: #todo - settle on an image linking style that is not obsidian only
+	* Obsidian Style    ! [ [ image-file-name ] |100x150]  (Works only in obsidian)
+	* Relative file path:  :\[Title\]\\(../../image-file-name.png)
+	* See [Stack Overflow: Changing Image Size in Markdown](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
