@@ -1,5 +1,5 @@
 # Introduction 
-This is an opinionated  guide to "Knowledge Systems" or "second brain" systems.  The purpose of these systems is to allow you to be able to find notes that you have made, draw connections between ideas, and generate new ideas using your existing systems.
+This is an opinionated  guide to "Knowledge Systems" or "second brain" systems.  The purpose of these systems is to allow you to be able to keep track of large amount of notes that you have made, draw connections between ideas, and generate new ideas using your existing systems.
 
 The "Home Page" for this knowledge vault is [[List of Systems]]
 
