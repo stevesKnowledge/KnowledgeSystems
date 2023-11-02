@@ -1,5 +1,5 @@
 Status: #dea
-Tags: #systems
+Tags: #systems #obsidian #para #code
 
 This is the jumping off point for the various "second brain systems"
 

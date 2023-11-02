@@ -15,6 +15,8 @@ Obsidian is based around Markdown files, giving you more control of your data, a
 	* Tag cloud allows  Tag clusters to reveal significant ideas.
 * Other:
 		* My [[Obsidian Notes]] 
+		*  A list of [[Public Obsidian Vaults]]
+	
 	  
 ##  LogSeq
  Commercial? note taking App
