@@ -1,6 +1,6 @@
 Date: :2023/11/01 :22:14
-Status: #dea
-Tags:
+Status: #zettel
+Tags:  #software #obsidian
 
 # Note Taking Software
 
@@ -14,7 +14,7 @@ Obsidian is based around Markdown files, giving you more control of your data, a
 	* Folder, File, 
 	* Tag cloud allows  Tag clusters to reveal significant ideas.
 * Other:
-		* My [[Obsidian Notes]] 
+		* My [[Readme-Using Obsidian]] 
 		*  A list of [[Public Obsidian Vaults]]
 	
 	  

@@ -1,7 +1,7 @@
+Parent: (link to parent note)
 Date: {{date::YYYY/MM/DD}} {{time::HH:mm}}
-Status: #dea
+Status: #zettel 
+Synopsis: 
 Tags:
-
-# {{title}}
 
 ## References

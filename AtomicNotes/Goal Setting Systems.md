@@ -1,6 +1,6 @@
 Date: :2023/11/02 :15:49
-Status: #dea
-Tags: #goals #systems
+Status: #zettel 
+Tags:  #moc #goals
 
 # Goal Setting Systems
 
@@ -11,6 +11,9 @@ Contrasts ongoing effort with time-bounded efforts
 ## SMART Goal Setting
 * Specific
 * Monitorable
-* Actionable *
+* Achievable
+* Relevant
+* Time-Based
+ * [[https://www.indeed.com/hire/c/info/smart-goals]]*
 
 ## References

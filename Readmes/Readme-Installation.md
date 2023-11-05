@@ -1,7 +1,14 @@
+Parent:  [[HOME-Personal Knowledge Management Systems]]
+Status:  #readme 
+Tags:
+Synopsis: **How to Install Obsidian and  set up this knowledge vault** .
 # Introduction 
 This is an opinionated  guide to "Knowledge Systems" or "second brain" systems.  The purpose of these systems is to allow you to be able to keep track of large amount of notes that you have made, draw connections between ideas, and generate new ideas using your existing systems.
 
-The "Home Page" for this knowledge vault is [[List of Systems]]
+The "Home Page" for this knowledge vault is [[HOME-Personal Knowledge Management Systems]]
+
+## Opinions
+These are things that you may not end up agreeing with, but we are assuming these as true in this knowledge vault in order to simplify things. 
 
 The main Opinions We are holding here are:
 
@@ -9,16 +16,18 @@ The main Opinions We are holding here are:
   
 * **[Obsidian](https://obsidian.md) is the note taking tool to use.**
   
-* **Your notes should be backed up**.  Normalliy this means to an online repository.  There are several options for doing this in Obsidian:
-	1. Using a synced folder, like Dropbox or Google Drive
-	2. Using Obsidian Sync (a paid option)
-	3. Storing your notes in a   [Git repository](https://phoenixnap.com/kb/what-is-a-git-repository) 
+* **Your notes should be backed up**.  Normaliy this means to an online repository.  There are several options for doing this in Obsidian:
+	1. The preferred method, for me, is  Storing your notes in a   [Git repository](https://phoenixnap.com/kb/what-is-a-git-repository) 
+	2. Using a synced folder, like Dropbox or Google Drive
+	3. Using Obsidian Sync (a paid option)
 
 ## Reference 
-This knowledge vault is based on [[Artem Kirsanov - Minimalist Zettelkasten(YouTube)]].
+This knowledge vault is based on [[Author-Artem Kirsanov]].
 ## Installing Tools
 1. Install Obsidian from the [download] page.
 
+## Obsidian Plugins
+Currently the obsidian plugins are included in the  git repo 
 ## I. Creating a New Vault
 
 1. Create the vault folder on your local hard drive, 
@@ -57,7 +66,7 @@ This knowledge vault is based on [[Artem Kirsanov - Minimalist Zettelkasten(YouT
 # III. Create Note Template(s)
  
  1. Select the template folder 
- 2. Enter boilerplate as seen in the [[ZK-CoreIdea]] note.
+ 2. Enter boilerplate as seen in the [[AtomicNote]] note.
  3. To apply a template, open a note, then press Cmd-T, and type template name. 
 
 # IV. References folder
@@ -78,3 +87,10 @@ The main value of this system comes from having references and tags attached to 
 
 
 
+# References 
+Additional Readmes: 
+
+ * [[Readme-Tag Taxonomy]]
+ * [[Readme-Using Obsidian]]
+
+ 

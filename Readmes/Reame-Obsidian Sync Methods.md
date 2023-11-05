@@ -1,5 +1,6 @@
+Parent: [[HOME-Personal Knowledge Management Systems]]
 Date: :2023/11/01 :23:17
-Status: #dea
+Status: #Readme
 Tags: #software #obsidian 
 
 # Obsidian Sync Methods
