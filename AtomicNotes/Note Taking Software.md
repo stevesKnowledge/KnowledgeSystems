@@ -51,12 +51,15 @@ A commercial note taking app that first exposed me to the "second brain" idea. I
 
 
 # Massive Wiki
-An open source Wiki System, created by 
+An open source Wiki System, with ability to publish to the web.
 
 Format: text files, wiki syntax
-Sync:  They primarily expect people to use GitHub, but any text sync methods ( See [Notion section](#Notion) of this page  )
+Sync:  They primarily expect people to use GitHub, but any text sync methods will work see [[Reame-Obsidian Sync Methods]]
 Platforms: Expects you to use Obsidian or a markdown editor such as Typora. 
 
+
+**Conceptual Diagram**
+(This is here primarily as an example of an image ;)
 ![[massive-wiki-conceptual-diagram-20210425.png|200x300]]
 
 # Markdown Editors 

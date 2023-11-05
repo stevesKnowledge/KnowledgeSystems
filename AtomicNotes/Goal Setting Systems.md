@@ -1,8 +1,8 @@
+Parent: [[HOME-Personal Knowledge Management Systems]]
 Date: :2023/11/02 :15:49
 Status: #AtomicNote
 Tags:  #moc #goals
 
-# Goal Setting Systems
 
 ## Process Goals
 Contrasts ongoing effort with time-bounded efforts

@@ -1,6 +1,7 @@
 Parent: [[HOME-Personal Knowledge Management Systems]]
 Status: #moc
 Tags:  #Zettelkasten
+Synopsis: This is the reference page for the  Zettelkasten Note Organizing System.
 
 ## Text
 * There is an [Official Zettelcasten](https://zettelkasten.de/posts/overview/) Page
