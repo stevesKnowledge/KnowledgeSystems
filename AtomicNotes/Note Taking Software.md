@@ -1,5 +1,5 @@
 Date: :2023/11/01 :22:14
-Status: #zettel
+Status: #AtomicNote
 Tags:  #software #obsidian
 
 # Note Taking Software

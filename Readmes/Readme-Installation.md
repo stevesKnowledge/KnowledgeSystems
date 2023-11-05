@@ -2,25 +2,6 @@ Parent:  [[HOME-Personal Knowledge Management Systems]]
 Status:  #readme 
 Tags:
 Synopsis: **How to Install Obsidian and  set up this knowledge vault** .
-# Introduction 
-This is an opinionated  guide to "Knowledge Systems" or "second brain" systems.  The purpose of these systems is to allow you to be able to keep track of large amount of notes that you have made, draw connections between ideas, and generate new ideas using your existing systems.
-
-The "Home Page" for this knowledge vault is [[HOME-Personal Knowledge Management Systems]]
-
-## Opinions
-These are things that you may not end up agreeing with, but we are assuming these as true in this knowledge vault in order to simplify things. 
-
-The main Opinions We are holding here are:
-
-* **Your data should be stored as plain text.**  This allows it to not be dependent upon any particular software, makes it easy to search and back up, and easy to feed into AI systems.  I got on this kick from [Youtube-NoBoilerplate-The Unreasonable Effectiveness of Plain Text](https://www.youtube.com/watch?v=WgV6M1LyfNY&t=26s)
-  
-* **[Obsidian](https://obsidian.md) is the note taking tool to use.**
-  
-* **Your notes should be backed up**.  Normaliy this means to an online repository.  There are several options for doing this in Obsidian:
-	1. The preferred method, for me, is  Storing your notes in a   [Git repository](https://phoenixnap.com/kb/what-is-a-git-repository) 
-	2. Using a synced folder, like Dropbox or Google Drive
-	3. Using Obsidian Sync (a paid option)
-
 ## Reference 
 This knowledge vault is based on [[Author-Artem Kirsanov]].
 ## Installing Tools

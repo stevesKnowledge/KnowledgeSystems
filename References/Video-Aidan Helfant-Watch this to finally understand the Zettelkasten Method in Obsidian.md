@@ -8,14 +8,6 @@ This note contains detailed notes on the  YouTube video [Aidan Heifant-Watch thi
 
   
 
-PKM: Personal knowledge Management. 
-
-  
-
-Public : Aidens Digital garden
-
-  
-
 1:02 popularized by sonkhe Ahrens book "How to Take Smart Notes"
 
 1:27 comtent of Luhnman zettel.
@@ -251,3 +243,5 @@ Scala draw plugin
     
 -
 ## References
+* PKM: Personal knowledge Management. 
+ * Public Repo of Aiden : Aidens Digital garden

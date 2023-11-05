@@ -23,13 +23,16 @@ A map of content is  a central point for a topic or idea, and provides a higher 
 
 ---
 ## ZettelKasten Folders 
-The system implemented here uses four folders as follows
+In Obsidian, click the "Folder" icon at the upper left in the title bar to view the folder structure. 
 
-* **Files**:  Images, drawings: all files that are not native Markdown Text.
-* **Readmes** - How to guides for getting started.
-* **References:** Notes about source material:  Authors, Videos, Books. 
-* **Templates:** - Used to generate new Notes of various types.
-* **Zettelkasten:**  - The main Notes folder.  
+The system implemented here uses folders as follows
+
+* **Atomic Notes**  - The main Notes folder.  
+* **Files**:                - Images, drawings: all files that are not native Markdown Text.
+* **Readmes**         - How to guides for getting started.
+* **References:**     - Notes about source material:  Authors, Videos, Books. 
+* **Journal:             - Daily work notes (WIP, not mature)
+* **Templates:**      - Used to generate new Notes of various types.
 
 
 ## References
@@ -48,8 +51,9 @@ The system implemented here uses four folders as follows
 ## References 
 * There is an [Official Zettelcasten](https://zettelkasten.de/posts/overview/) Page
 * This particular  system is based on  a blend of systems by[[Author-Artem Kirsanov]] and [[References/Author-Aiden Heifant|Author-Aiden Heifant]]
+* I also have a list of [[Public Obsidian Vaults]]
 
-I started by watching some YouTube Videos:
+Introductory: I started by watching some YouTube Videos:
 *[YouTube - DJ Lensing - ZettelKasten Method For Beginners](https://www.youtube.com/watch?v=CAerQtNkGT0)  Good History, and what it is explanation
 * [Youtube-CajunKoiAcadmey-ZettelkastenMethod](https://www.youtube.com/watch?v=wFZHuWLA09M)  More philosophical, the why 
 * [Youtube-Vicky Zhaho-Zettelkaste Method Explained - A beginners Guide]

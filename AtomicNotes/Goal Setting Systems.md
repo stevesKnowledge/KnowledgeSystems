@@ -1,5 +1,5 @@
 Date: :2023/11/02 :15:49
-Status: #zettel 
+Status: #AtomicNote
 Tags:  #moc #goals
 
 # Goal Setting Systems

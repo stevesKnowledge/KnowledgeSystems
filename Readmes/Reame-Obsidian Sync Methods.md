@@ -7,10 +7,9 @@ Tags: #software #obsidian
 
 Obsidian can be synced to the. web in three ways
 
-1. Using paid Obsidian Sync
-2. Using a sync'ed folder, e.g. DropBox or GoogleDrive.
-3. Using GitHub.
-
+1. Using GitHub. (Useful for a public vault, with collaborators)
+2. Using paid Obsidian Sync
+3. Using a sync'ed folder, e.g. DropBox or GoogleDrive.
 
 ## Github
 By placing your obsidian vault in a Git repository, it can be shared as with any Git project.
