@@ -3,7 +3,9 @@ Date: :2023/11/04 :21:33
 Status: #topicMOC
 Synopsis:  Understanding the folders, tags, and conventions in this Zettelkasten system 
 Tags: #Zettelkasten 
- 
+
+# TODO: Consider splitting this into History and Organization
+
 # Introduction 
 Zettelkasten is German for "slip box", or a box of index card file, like they used to use in libraries.  In the 20th century (1900s), such systems were based on 3x5 cards. Each card is called an "Atomic Note" or "zettel".   Each note is cross-referenced to source material and other notes.  Due to this linking, this system is often cited as a precursor to HTML hyperlinks.
 

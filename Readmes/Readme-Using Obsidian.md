@@ -18,13 +18,25 @@ In the Title Bar of the Window
 
 
 
-## Things to learn about  Obsidian 
+## Using Obsidian
 
-1. You have to understand Markdown, start with he official [Obsidian Markdown Reference](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
+1. First you have to **understand Markdown**, start with he official [Obsidian Markdown Reference](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
 2. Learn how to use [Tabs in Obsidian](https://help.obsidian.md/User+interface/Use+tabs+in+Obsidian)
-3. Creating Notes: 
-	1. ctrl-n = create new note 
+   
+3. **Creating Notes/Applying Template:** 
+	1. ctrl-n = create new note, or maybe
 	2. ctrl+o = open -> Helps to find related notes
+	3. After creating Note press   **"Ctrl-T"** to apply a template (See [[ZettelKastenSystem#Types of Notes]])
+	
+4. **Using Tags**
+	1. **Taxonomy:** Visit the [[Readme-Tag Taxonomy]] to learn the tag names
+	2. **Tag References:** Tap on a tag anywhere to show all references to a tag in the left pane
+	    (click file folder icon in the top left of titl bard to get back to folder view)
+	3. **Renaming Tags:** If the TagWrangler plugin is installed an enabled, right click on any tag to rename. 
+	4. **Global Tag Map**: Clickthe Tag Map Icon (Below Search) in left sidebar to view the Tag Cloud
+	5. **Local Tag Map:** use ellipsis at upper map of page -> Open Linked View -> Local Tag Map
+		1. Use "Filters" to adjust depth of local tag map
+		2. 
 
 ## Things that confused me:
 
