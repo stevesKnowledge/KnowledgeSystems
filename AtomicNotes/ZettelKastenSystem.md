@@ -1,6 +1,6 @@
 Parent: [[HOME-Personal Knowledge Management Systems]]
 Date: :2023/11/04 :21:33
-Status: #moc
+Status: #topicMOC
 Synopsis:  Understanding the folders, tags, and conventions in this Zettelkasten system 
 Tags: #Zettelkasten 
  
@@ -20,7 +20,7 @@ A prominent user and popularizer of the Zettelkasten system was [Niklas Luhmann]
 ## Atomic Note (Zettel)
 The main kind of note file, an Atomic Note or "zettel" contains a single idea, expressed in your own words, along with links to other related ideas, and links to reference material 
 
-## MOC - Map of Content
+## TopicMOC - Topic Map of Content
 A map of content is  a central point for a topic or idea, and provides a higher level overview 
 
 ---

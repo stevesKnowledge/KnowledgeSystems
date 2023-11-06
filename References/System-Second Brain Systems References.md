@@ -1,4 +1,4 @@
-Status: #moc
+Status: #topicMOC
 Tags: #SecondBrain #obsidian 
 Synopsis:  Second Brain Systems are systems for oganizing your note taking of all sorts.
 

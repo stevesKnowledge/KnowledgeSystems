@@ -1,8 +1,9 @@
 Parent: [[HOME-Personal Knowledge Management Systems]]
-Status: #moc
+Status: #topicMOC
 Tags:  #Zettelkasten
 Synopsis: This is the reference page for the  Zettelkasten Note Organizing System.
 
+The main TopicMOC Page is at [[ZettelKastenSystem]]
 ## Text
 * There is an [Official Zettelcasten](https://zettelkasten.de/posts/overview/) Page
 * There is a bunch more history on the   [Wikipedia-Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) page.

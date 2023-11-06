@@ -1,7 +1,7 @@
 Parent: [[HOME-Personal Knowledge Management Systems]]
 Date: :2023/11/02 :15:49
 Status: #AtomicNote
-Tags:  #moc #goals
+Tags:  #topicMOC #goals
 
 
 ## Process Goals
