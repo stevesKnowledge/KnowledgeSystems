@@ -30,4 +30,10 @@ Aiden Helfant appears to be a student at Cornell University, who has a youtube c
 	* **Synopsis:** Detailed description of Note Capture/Organizing workflow, including lots of fantastic tools to automatically bring your notes into Obsidian
 	* **Video Notes:** [[Video-Aidan Helfant-Watch this to finally understand the Zettelkasten Method in Obsidian]]
 
+* **Video Link**: [YouTube-Aidan Helfan-How I Take Book Notes In Obsidian](https://www.youtube.com/watch?v=YvaN0tG5B8s)
+	* **Video Date:** 2022-11
+	* **Length:** 38:14
+	* **Synopsis:** Book Template, Reading vs Note Taking Granularity: Linking  To MOCS, etc
+	* **Video Notes:** [[Video-Aidan Helfant-How I Take Book Notes In Obsidian]]
+
 
