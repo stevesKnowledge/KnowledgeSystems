@@ -19,7 +19,7 @@ A prominent user and popularizer of the Zettelkasten system was [Niklas Luhmann]
 
 ----
 # Types of Notes
-## Atomic Note (Zettel)
+## Atomic Note (Zettel)(Consider Card??)
 The main kind of note file, an Atomic Note or "zettel" contains a single idea, expressed in your own words, along with links to other related ideas, and links to reference material 
 
 ## TopicMOC - Topic Map of Content
