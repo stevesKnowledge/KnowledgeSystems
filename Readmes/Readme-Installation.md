@@ -1,5 +1,5 @@
 Parent:  [[HOME-Personal Knowledge Management Systems]]
-Status:  #readme 
+Category:  #readme 
 Tags:
 Synopsis: **How to Install Obsidian and  set up this knowledge vault** .
 ## Reference 

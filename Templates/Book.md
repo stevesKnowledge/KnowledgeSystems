@@ -1,4 +1,4 @@
-Status: #book
+Category: #book
 Tags:  
 
  * Author*

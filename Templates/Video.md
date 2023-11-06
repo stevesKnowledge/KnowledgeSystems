@@ -1,6 +1,6 @@
 Parent: {usually an author}
 Date: : {date}
-Status: #Video 
+Category: #Video 
 Tags: 
 
 # Introduction 

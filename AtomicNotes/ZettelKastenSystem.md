@@ -1,6 +1,6 @@
 Parent: [[HOME-Personal Knowledge Management Systems]]
 Date: :2023/11/04 :21:33
-Status: #topicMOC
+Category: #topicMOC
 Synopsis:  Understanding the folders, tags, and conventions in this Zettelkasten system 
 Tags: #Zettelkasten 
 

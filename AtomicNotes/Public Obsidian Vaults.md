@@ -1,5 +1,5 @@
 Date: :2023/11/02 :16:05
-Status: #AtomicNote
+Category: #AtomicNote
 Tags: #obsidian
 
 # Public Obsidian Vaults

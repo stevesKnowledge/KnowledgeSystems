@@ -1,4 +1,4 @@
-Status: #topicMOC
+Category: #topicMOC
 Tags: #obsidian #para #codeNotes 
 Synopsis:  THE Home Page.
 

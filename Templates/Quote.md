@@ -1,4 +1,4 @@
-Status: #Quote
+Category: #Quote
 Tags:
 Source:  (e.g. twitter, video clip
 # Quote

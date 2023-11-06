@@ -1,4 +1,4 @@
-Status: #Authors
+Category: #Authors
 Tags:  #Zettelkasten #SecondBrain #obsidian 
 
 # Introduction 

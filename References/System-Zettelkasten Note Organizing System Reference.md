@@ -1,5 +1,5 @@
 Parent: [[HOME-Personal Knowledge Management Systems]]
-Status: #topicMOC
+Category: #topicMOC
 Tags:  #Zettelkasten
 Synopsis: This is the reference page for the  Zettelkasten Note Organizing System.
 

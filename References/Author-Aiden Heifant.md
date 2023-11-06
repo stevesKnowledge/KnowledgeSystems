@@ -1,4 +1,4 @@
-Status: #Authors
+Category: #Authors
 Tags:  #Zettelkasten #SecondBrain #obsidian 
 
 HomePage: [aidanhelfant.com](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbWJpSUN6bm00cDdDOGV6cUJucEF2S0V6T1lRQXxBQ3Jtc0ttTmxtcnZ6X2xnX2poS0xlQWtYQURWMVNNLTE4R0xYdjU5aVBHX1VMb183VmJrUjhIbGNXVEhqS1hwd0ZzVHFWbVJqYUFibnI2QUU2cndvaUxfSnVMSlp3RndBdzdBVGlLRE43YU5wZ3NDZVlKbGFHaw&q=https%3A%2F%2Fwww.aidanhelfant.com%2F)

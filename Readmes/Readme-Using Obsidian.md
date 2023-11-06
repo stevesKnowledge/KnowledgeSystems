@@ -1,5 +1,5 @@
 Parent: [[HOME-Personal Knowledge Management Systems]]
-Status: #readme
+Category: #readme
 Tags: #obsidian 
 Synopsis:  **Using the Obsidian tool**, including notes on Obsidan Markdown
 

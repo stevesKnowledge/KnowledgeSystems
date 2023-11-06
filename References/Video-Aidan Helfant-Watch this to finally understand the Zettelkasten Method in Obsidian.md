@@ -1,6 +1,6 @@
 Parent: [[References/Author-Aiden Heifant|Author-Aiden Heifant]]
 Date: :2023/11/04 :19:52
-Status: #Video 
+Category: #Video 
 Tags: #obsidian #Zettelkasten 
 
 # Introduction 
