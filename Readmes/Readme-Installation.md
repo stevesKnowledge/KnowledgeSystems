@@ -41,6 +41,8 @@ Currently the obsidian plugins are included in the  git repo
 		* ~~[Sliding Panes](https://github.com/deathau/sliding-panes-obsidian) - Display notes side by side~~  (Replaced by Obsidian Tab feature)
 		* [Mermaid Tools]() - Draw mermaid Diagrams
 		* [Mind Map](https://help.obsidian.md/User+interface/Use+tabs+in+Obsidian) Display Mind maps from Markdown
+		* [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Global Search and replace of Tags
+		
 	* **Templates**
 		* Template Folder Location -> Templates	  
 
