@@ -4,6 +4,7 @@ At the point where you want the TODO, create a heading (hashtag TODO) and then l
 
 * [ ] [[Readme-Using Obsidian#TODO-ObsidianScreenshot]] 
 
+* [ ] [[Readme-Tag Taxonomy#TODO Make Sure tags are universal]]
 
 ## General TODO
 

@@ -18,23 +18,16 @@ There is also visual tag map (below the search icon in the left icon bar), You c
 
 You probably don't want a million tags in your system.
 
-# TODO: Local Tag Map
-Understand how to display the local tag map, mentioned in [[Video-Aidan Helfant-Watch this to finally understand the Zettelkasten Method in Obsidian]]
-
-
-# Category Tags
-Category is a separate field on the notes, which contains a tag, usually one of the "ZettelKasten" tags or a general tag.  
-
-These are used to give an idea of the main purpose of the note:  zettel(idea), reference, readme, etc.
-
-- [ ] TODO: Make universal Tags
-	- "Atomic Note " means "standalone".  Consider (CARD)
-	 ** **Thought:**
-	 *  Aidan Has:  Seedling, Fern, Evergreen, Moc*
+## TODO: Make Sure tags are universal
+*  **Consider** - Move the "Category" field into the tags (That's what it is, after all!)
+- "**Atomic Note**""  means "standalone" - Did not mean anything to one frend  Consider Card or
+- **Note Taxonomy** Is intended to show the maturity status of the note: How well it is cross referenced, and if it is "done"
+	 *  Aidan Has:  Seedling, Fern, Evergreen, Moc
 	 * Consider: seedling, sapling, tree, forest
+	 * Something else?    Inbox -> Idea -> Moc -> Topic.
 
 # Category Tags
-Category is a separate field on the notes, which contains a tag, usually one of the "ZettelKasten" tags or a general tag.  
+Category is a separate field on the notes, which contains a tag, usually one of the "ZettelKasten" tags or a general tag, like "Author" or "Book" 
 
 These are used to give an idea of the main purpose of the note:  zettel(idea), reference, readme, etc.
 
