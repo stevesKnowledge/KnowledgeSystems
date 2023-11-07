@@ -3,6 +3,8 @@ Date: : {date}
 Category: #Video 
 Tags: 
 
+**Video Link:** {}
+**Video Date:** {}
 # Introduction 
 
 

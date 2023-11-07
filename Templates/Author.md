@@ -1,7 +1,8 @@
-Category: #Authors
-Tags:  #Zettelkasten #SecondBrain #obsidian 
-HomePage:
-Wikipedia: 
+**Parent:**  {TopicMoc? Hmm}
+**Category:** #Authors
+**Tags:**  #Zettelkasten #SecondBrain #obsidian 
+**HomePage:**
+**Wikipedia:** 
 # Introduction 
 The author:
 
@@ -13,7 +14,6 @@ The author:
 	* Video Date: 
 	* Watched: 2023-
 	* Notes:  (link to obsidaian note)
-
 
 ## Books
  *  * Note:  (link to obsidian note about book)

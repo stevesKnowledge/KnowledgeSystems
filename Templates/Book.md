@@ -1,16 +1,15 @@
-Category: #book
-Tags:  
-
- * Author*
-* Title:
- * Book Homepage:  
-* Published: 
-* Read:  (date)
+**Parent:**  {usually Author}
+**Category**: #book
+**Tags:**  
+**Author:**. 
+**Title:** 
+**Book Homepage:**   
+**Published:** {date}
+**Read:**  (date)
 	* Notes File:  (link to obsidian note)
-	* Highlights:  (link to highlights reference notes)
+	* Highlights:  (link to highlights reference notes imported from Kindle)
 
 ---
-## Metadata
 ### Synopsis 
 {Explain the book in 3 sentences }
 
