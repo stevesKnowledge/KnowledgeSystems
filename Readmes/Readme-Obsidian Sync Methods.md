@@ -20,6 +20,16 @@ By placing your obsidian vault in a Git repository, it can be shared as with any
 * Need Git Hub account*
 * Git Learning Cuve
 
+### Problems with Icon? 
+Obsidian creates a number of temporary files, including an "Icon?" file. (This is on OSX).
+I'm not sure what this file does, but Git does not like it.  
+
+Told Git to ignore Icon? files
+```
+# Ignore files name "Icon?" in any folder
+**Icon\?
+
+
 * ## Google Drive
 Google Drive bypasses the pain of git and allows multiple people to see or edit the files, but there are some disadvantages:
 

@@ -17,7 +17,7 @@ The main Opinions We are holding here are:
   
 * [Obsidian](https://obsidian.md) is the note taking tool to use.
   
-* **Your notes should be backed up**.  Normally this means to an online repository.  There are several options for doing this in Obsidian:   See [[Reame-Obsidian Sync Methods]]
+* **Your notes should be backed up**.  Normally this means to an online repository.  There are several options for doing this in Obsidian:   See [[Readme-Obsidian Sync Methods]]
 
 # Where to Go Next
 

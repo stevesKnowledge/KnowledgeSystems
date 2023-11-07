@@ -54,7 +54,7 @@ A commercial note taking app that first exposed me to the "second brain" idea. I
 An open source Wiki System, with ability to publish to the web.
 
 Format: text files, wiki syntax
-Sync:  They primarily expect people to use GitHub, but any text sync methods will work see [[Reame-Obsidian Sync Methods]]
+Sync:  They primarily expect people to use GitHub, but any text sync methods will work see [[Readme-Obsidian Sync Methods]]
 Platforms: Expects you to use Obsidian or a markdown editor such as Typora. 
 
 
