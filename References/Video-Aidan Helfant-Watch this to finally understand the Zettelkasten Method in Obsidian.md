@@ -1,10 +1,12 @@
 Parent: [[References/Author-Aiden Heifant|Author-Aiden Heifant]]
 Date: :2023/11/04 :19:52
 Category: #Video 
-Tags: #obsidian #Zettelkasten 
+Tags: #obsidian #Zettelkasten
 
+Video Link: [Aidan Heifant-Watch this to finally understand the Zettelkasten Method in Obsidian](https://youtu.be/wvAZ9-hmWQU?si=b4h_hBhApaymv7oX)
+Video Date: 2022-11-20
 # Introduction 
-This note contains detailed notes on the  YouTube video [Aidan Heifant-Watch this to finally understand the Zettelkasten Method in Obsidian](https://youtu.be/wvAZ9-hmWQU?si=b4h_hBhApaymv7oX)
+This note contains detailed notes on the  YouTube video by Aidan Helfant - Watch this fo finally understand the Zettelkasten method in  Obsidian 
 
   
 

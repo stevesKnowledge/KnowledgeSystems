@@ -1,4 +1,4 @@
-**Parent:**  {TopicMoc? Hmm}
+**Parent:**  {Topic? Hmm}
 **Category:** #Authors
 **Tags:**  #Zettelkasten #SecondBrain #obsidian 
 **HomePage:**
