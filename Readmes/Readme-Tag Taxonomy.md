@@ -48,7 +48,9 @@ These tags describe content that should be familiar to pretty much anyone with a
 
 * #Authors - Home page for an author.
 * #book - Notes on a book.
+* #flowState - Flow state:when you are immersed ito the point that you lose track of time. 
 * #goals  - Related to goal setting systems.
+* #procrastination - Putting things off that you need to get done
 *  #readme -  A general readme, or how-to guide.
 *  #software - Notes on software used to do this stuff.
 
