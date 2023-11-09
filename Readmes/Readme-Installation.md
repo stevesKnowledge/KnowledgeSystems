@@ -24,18 +24,27 @@ Currently the obsidian plugins are included in the  git repo
 
 # II. Obsidian Settings
 1.   Visit the settings (gear icon in the lower left).
-	*  Files and Links:  
-		* -> Default Location for New Notes -> "In the Folder Specified Below" -> "Zettelkasten"
+	*  **Files and Links:**  
+		* -> Default Location for New Notes -> "In the Folder Specified Below" -> "AtomicNotes"
+		* -> Use \[\[Wikilinks\]\] -> Off  (makes markdown links work everywhere)
+		* -> "New Link Format" -> "Relative Path to File" (Again make other prog friendly)
 		* -> "Default Location for Attachments" -> Folder -> "Files"
-	* Appearance -> Themes -> select a theme.
-	* Hotkeys -> Templates -> Ctrl-T
+		* -> "Detect All File Extensions" -> On. (Makes all attachments visible)
+	* **Appearance** 
+		* -> Themes -> select a theme.
+	* **Hotkeys** 
+		* -> Open Cmd Palette -> Ctrl-P.  - Opens a Window to search for commands.
+		* -> Templates -> Ctrl-T.  Apply template to current note.
+		* -> Toggle Source Mode -> Ctrl+Shift+S
 	* **Core Plugins**
 		* -> Tag Pane -> Enable
 		*  -> Templates -> Enable
 		*  -> Zettelkasten Prefixer -> (Leave Off) - Prefixes note names w YYMMDD
 	* **Community Plugins**
 		* You may need to  turn off Safe Mode (!), or "enable community plugins" (That was on by default for me)  
-		* NOTE:  There are Lots of Plugins!  -  Don't go too far down the rabbit hole
+		* NOTES:  
+			* There are Lots of Plugins!  -  Don't go too far down the rabbit hole
+			* I am saving plugins in my git folder, you might not want to do this See [Readme-Obsidian Sync Methods#GitHub](Readme-Obsidian%20Sync%20Methods.md)#
 		  
 		*  [Admonition](https://github.com/javalent/admonitions) - Fancy formatting, like "Question", "equation" etc.
 		* ~~[Sliding Panes](https://github.com/deathau/sliding-panes-obsidian) - Display notes side by side~~  (Replaced by Obsidian Tab feature)

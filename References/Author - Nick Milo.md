@@ -10,10 +10,10 @@ The author:
 * * Link to Note
 
 ## Videos 
-* *  Video Link  {Youtube-Author-Title}
-	* Video Date: 
-	* Watched: 2023-
-	* Notes:  (link to obsidian note)
+* *  **Video Link:**  [Youtube-Nick Milo-Folders or Links The key to both is ACCES](https://www.youtube.com/watch?v=p0zWJ-TLghw)
+	* **Video Date:** 2022-05-29
+	* **Watched:** 2023-
+	* **Notes:**  Todo
 
 ## Books
  *  * Note:  (link to obsidian note about book)

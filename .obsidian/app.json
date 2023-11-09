@@ -1,6 +1,9 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "Zettelkasten",
+  "newFileFolderPath": "AtomicNotes",
   "attachmentFolderPath": "Files",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative"
 }

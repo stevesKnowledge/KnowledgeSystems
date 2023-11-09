@@ -62,10 +62,15 @@ Platforms: Expects you to use Obsidian or a markdown editor such as Typora.
 (This is here primarily as an example of an image ;)
 ![[massive-wiki-conceptual-diagram-20210425.png|200x300]]
 
+
+---
 # Markdown Editors 
-These systems are more limited 
-Typora
-A paid markdown editor with a minimalistic UI. 
+These systems are more limited
+Most Programmers Text Editors these days contain at least some Markdown syntax highlighting, and allow you to click on hyperlinks  to get to web pages, but they typically don't support inline image viewing out of the box.
+
+## Typora
+**Web Page:** [Typora.io](https://typora.io/)
+**Description:** A paid markdown editor with a minimalistic UI. 
 Very nice. 
 
 ## References

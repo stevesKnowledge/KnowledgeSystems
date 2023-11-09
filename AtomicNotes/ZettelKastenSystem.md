@@ -1,4 +1,4 @@
-Parent: [[HOME-Personal Knowledge Management Systems]]
+ Parent: [[HOME-Personal Knowledge Management Systems]]
 Date: :2023/11/04 :21:33
 Category: #topicMOC
 Synopsis:  Understanding the folders, tags, and conventions in this Zettelkasten system 
@@ -6,7 +6,7 @@ Tags: #Zettelkasten
 
 # TODO: Consider splitting this into History and Organization
 
-# Introduction 
+# Introduction/History 
 Zettelkasten is German for "slip box", or a box of index card file, like they used to use in libraries.  In the 20th century (1900s), such systems were based on 3x5 cards. Each card is called an "Atomic Note" or "zettel".   Each note is cross-referenced to source material and other notes.  Due to this linking, this system is often cited as a precursor to HTML hyperlinks.
 
 This system derives value largely because the cross-referencing allows connections  between ideas to become apparent over time.   This allows for original ideas to arise and be clearly expressed, and source material properly referenced.
@@ -34,9 +34,9 @@ The (opinionated) folder system implemented here uses folders as follows
 * **Atomic Notes**  - The main Notes folder.  
 * **Files**:                - Images, drawings: all files that are not native Markdown Text.
 * **Readmes**         - How to guides for getting started.
-* **References:**     - Notes about source material:  Authors, Videos, Books. 
-* **Journal:             - Daily work notes (WIP, not mature)
-* **Templates:**      - Used to generate new Notes of various types.
+* **References:**     - Notes about source material:  Authors, Videos, Books, Quotes, Etc.
+* **Journal:**            - Daily work notes (**WIP, not mature)**
+* **Templates:**       - Used to generate new Notes of various types.
 
 --- 
 # Cross-References and Tags
@@ -66,3 +66,8 @@ Obsidian has great tools for visualizing, searching, and updating the cross-refe
 * [Youtube-CajunKoiAcadmey-ZettelkastenMethod](https://www.youtube.com/watch?v=wFZHuWLA09M)  More philosophical, the why 
 * [Youtube-Vicky Zhaho-Zettelkaste Method Explained - A beginners Guide]
 * There is a bunch more history on the [Wikipedia-Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) page.
+
+
+## Opposing Views 
+
+[YouTube-Sam Matla-Stop Procrastinating with Note-Taking Apps Like Obsidian](../References/Video-Sam%20Matla-Stop%20Procrastinating%20With%20Note%20Taking%20Apps.md)

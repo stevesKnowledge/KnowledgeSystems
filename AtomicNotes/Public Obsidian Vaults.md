@@ -14,7 +14,7 @@ These are Git Repositories of Public Obsidian Vaults that you can download, clon
 These are web pages representing snapshots of other peoples Obsidian Vaults 
 
  * [Aidan Helfant-Digital Garden](https://publish.obsidian.md/aidanhelfant/%F0%9F%8F%A0+My+Home) Obsidian Upload by PMK Expert [[Author-Aiden Heifant]]
- * [NicoleVanderhoeven-ForkMyBrain](https://notes.nicolevanderhoeven.com/Fork+My+Brain_
+ * [Nicole Vanderhoeven-ForkMyBrain](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
  
 
 ## References

@@ -8,6 +8,9 @@ At the point where you want the TODO, create a heading (hashtag TODO) and then l
 
 ## General TODO
 
+* [ ] Watch  [[HOME-Personal Knowledge Management Systems#ACCESS System]]
+* [ ] Read about Process Goals, linked at [[Goal Setting Systems#Process Goals]]
+
 * [ ] Figure out global search and replace in Obsidian.
 
 - [ ] Settle on an Obsidian Todo List

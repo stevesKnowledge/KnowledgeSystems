@@ -14,6 +14,6 @@ Contrasts ongoing effort with time-bounded efforts
 * Achievable
 * Relevant
 * Time-Based
- * [[https://www.indeed.com/hire/c/info/smart-goals]]*
 
 ## References
+ * [[https://www.indeed.com/hire/c/info/smart-goals]]*

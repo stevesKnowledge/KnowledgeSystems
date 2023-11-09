@@ -3,7 +3,7 @@
 **Synopsis:** This is a collection of Markdown Files that are designed to be used as an [Obsidan](https://obsidian.md/)  Knowledge Vault.
 
 # Introduction
-This archive is intended to be an introduction to and example of a "Personal Knowledge Management System" or "Second Brain" system.  The purpose of these systems is to allow you to be able to keep track of large amount of notes that you have made, draw connections between ideas, and generate new original ideas using your existing systems.  These notes can be used to generate new original content, such as essays, books, web articles, You Tube videos - whatever you like! 
+This archive is intended to be an introduction to and example of a "Personal Knowledge Management System" or "Second Brain" system.  The purpose of these systems is to allow you to be able to keep track of large amount of notes that you have made, draw connections between ideas, and generate new original ideas using your existing notes.  These notes can be used to generate new original content, such as essays, books, web articles, You Tube videos - whatever you like! 
 
 ## Opinionated
 This is also an opinionated  guide, because I have made some assumptions as to what software to use, and how to set it up.   These are things that you may not end up agreeing with, but we are assuming these as true in this knowledge vault in order to make things easier for new users. 

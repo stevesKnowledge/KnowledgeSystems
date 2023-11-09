@@ -1,7 +1,7 @@
-Parent: {usually an author}
-Date: : {date}
-Category: #Video 
-Tags: 
+**Parent:**      {usually an author}
+**Date:**         {date}
+**Category:** #Video 
+**Tags:** 
 
 **Video Link:** {}
 **Video Date:** {}
