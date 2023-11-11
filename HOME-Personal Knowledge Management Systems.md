@@ -49,7 +49,13 @@ Goal setting systems are a related area, and may also be of interest to people u
  See [[Goal Setting Systems]] 
 
 ---
-# III. Software And Tools 
+## Design Thinking
+Design Thinking is a problem solving method designed to help people create truly useful products 
+
+  See [Design Thinking](AtomicNotes/Design%20Thinking.md)
+
+---
+# IV. Software And Tools 
 There are a lot of amazing software tools around nowadays that increase the power of these systems exponentially!   Check them out
 
 See [[Software Tools]]

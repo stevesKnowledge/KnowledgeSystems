@@ -14,7 +14,9 @@ List of Authors, Alphabetically
 
 * **[[Author-Rian Doris]]** - Procrastination
 
+# -- P --
 
+* [](Author-Pat%20Moore)
 # -- S --
 
 * [Author-Sam Matla](./Author-Sam%20Matla.md) - Becoming an Actionable Person
