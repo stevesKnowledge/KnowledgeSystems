@@ -21,8 +21,8 @@ The main Opinions We are holding here are:
 
 # Where to Go Next
 
-The "Home Page" for this knowledge vault is [[HOME-Personal Knowledge Management Systems]]
-If you are unfamiliar with Obsidian, Visit [[Readme-Installation]]
+The "Home Page" for this knowledge vault is [HOME-Personal Knowledge Management Systems](./HOME-Personal%20Knowledge%20Management%20Systems.md)
+If you are unfamiliar with Obsidian, Visit [Readme-Installation](./Readmes/Readme-Installation.md)
 
 
 Feel Free to Clone this repository as a starting point for your own PKM System! 
