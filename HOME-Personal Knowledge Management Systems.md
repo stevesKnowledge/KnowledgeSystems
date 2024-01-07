@@ -34,6 +34,8 @@ Code is a series of four steps in the note taking process
 [Youtube-Nick Milo-Folders or Links The Key to both is ACCESS](https://www.youtube.com/watch?v=p0zWJ-TLghw) - Recommended by Aiden Helfant
 
 ---
+## Bullet Journaling
+* [Bullet Journaling](AtomicNotes/Bullet%20Journaling.md) - A daily journaling and review system
 
 ## PARA (Folder Organization System)
 PARA attempts to organize your data in to four Categories from most often accessed to least often. 
