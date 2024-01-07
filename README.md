@@ -5,6 +5,9 @@
 # Introduction
 This archive is intended to be an introduction to and example of a "Personal Knowledge Management System" or "Second Brain" system.  The purpose of these systems is to allow you to be able to keep track of large amount of notes that you have made, draw connections between ideas, and generate new original ideas using your existing notes.  These notes can be used to generate new original content, such as essays, books, web articles, You Tube videos - whatever you like! 
 
+**Here are some other Introductory Reads**
+* [Wired-Justin Pot-How to Use Obsidian For Writing and Productivity](References/Wired-Justin%20Pot-How%20to%20Use%20Obsidian%20For%20Writing%20and%20Productivity.md)
+
 ## Opinionated
 This is also an opinionated  guide, because I have made some assumptions as to what software to use, and how to set it up.   These are things that you may not end up agreeing with, but we are assuming these as true in this knowledge vault in order to make things easier for new users. 
 
