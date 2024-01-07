@@ -4,6 +4,7 @@ List of Authors, Alphabetically
 # -- A -- 
 
 * **[[Author-Aiden Heifant]]**   - Personal Knowledge Management Systems, Zettelkasten Method
+* [Author-Arnold Schwarzenegger](./Author-Arnold%20Schwarzenegger.md) - Movie Star, Actor, Governator, Self-Help
 * **[[Author-Artem Kirsanov]]** - - Personal Knowledge Management Systems, Zettelkasten Method
 
 
