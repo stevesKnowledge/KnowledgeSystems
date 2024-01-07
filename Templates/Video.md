@@ -1,6 +1,7 @@
 **Parent:**      {usually an author}
-**Date:**         {date}
+**Date:**         {{date::YYYY/MM/DD}}
 **Category:** #Video 
+**Level:**.        {Introductory/Intermediate/Advanced}
 **Tags:** 
 
 **Video Link:** {}

@@ -1,4 +1,5 @@
-**Parent:**  {}
+**Parent:**      {}
+**Datte:**        {{date::YYYY/MM/DD}}
 **Category:** #Quote
 **Tags:**
 **Source:**  (e.g. twitter, video clip

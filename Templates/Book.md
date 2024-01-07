@@ -5,7 +5,7 @@
 **Title:** 
 **Book Homepage:**   
 **Published:** {date}
-**Read:**  (date)
+**Read:**  {{date::YYYY/MM/DD}}
 	* Notes File:  (link to obsidian note)
 	* Highlights:  (link to highlights reference notes imported from Kindle)
 
