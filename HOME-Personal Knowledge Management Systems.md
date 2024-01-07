@@ -82,3 +82,5 @@ See [[AtomicNotes/Software Tools For Knowledge Mgmt]]
  * [[AtomicNotes/Software Tools For Knowledge Mgmt]] - Notes on software to use to do this
 
 # Miscellaneous
+Well, this stuff is not directly about PKS, but i wanted to keep notes 
+* [Climate Change and Storytelling](./AtomicNotes/Climate%20Change%20and%20Storytelling.md)
