@@ -45,6 +45,16 @@ It was developed by Tiago. I haven't used it much.
 * Archives 
 
 ---
+## Thirty Three Thirty Learning Framework
+This is my own personal attempt at a learning framework.  It is a method of organizing introductory knowledge on a topic such that you can develop a decent understanding in a short time.
+
+If you have an existing 30-3-30 summary of a topic, you can develop a working knowledge of the topic as follows. 
+
+* **Thirty minutes:** Get acquainted with the topic
+* **Three Days:** Get up and running, with a basic understanding
+* **Thirty Days:** Develop a working knowledge of the topic
+
+---
 # II. Goal Setting Systems 
 Goal setting systems are a related area, and may also be of interest to people using Personal Knowledge Management Systems. 
 
