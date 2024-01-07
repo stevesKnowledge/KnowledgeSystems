@@ -62,6 +62,8 @@ Platforms: Expects you to use Obsidian or a markdown editor such as Typora.
 (This is here primarily as an example of an image ;)
 ![[massive-wiki-conceptual-diagram-20210425.png|200x300]]
 
+## Mindstone
+* [Mindstone] is an app that lets you save notes and claims to help you remember why you saved it, and to be organized and effective about learning, as well as to organize and be able to share all of your learning from many sources.   Not sure how they make their money, but it appears to be free for individual use.  They have corporate plans. 
 
 ---
 # Markdown Editors 

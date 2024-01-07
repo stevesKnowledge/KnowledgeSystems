@@ -10,7 +10,7 @@ Tags:  #software
 
 ---
 ## Drawing Tools 
-* [[Drawing Tools]]
+* See [[Drawing Tools]]
 
 ## Prototyping
 * 

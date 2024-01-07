@@ -52,6 +52,7 @@ These tags describe content that should be familiar to pretty much anyone with a
 * #goals  - Related to goal setting systems.
 * #procrastination - Putting things off that you need to get done
 *  #readme -  A general readme, or how-to guide.
+* #selfhelp - Self Help books. 
 *  #software - Notes on software used to do this stuff.
 
 ---

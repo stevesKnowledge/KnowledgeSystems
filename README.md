@@ -26,3 +26,7 @@ If you are unfamiliar with Obsidian, Visit [Readme-Installation](./Readmes/Readm
 
 
 Feel Free to Clone this repository as a starting point for your own PKM System! 
+
+# About Me
+My name is Steve Schilz, and I have been a Software Engineer since 1990, and also a compulsive note-taker.  I hope that this vault helps me to make more sense out of my notes, and will allow me to write articles and other things more effectively.  I live in Sacramento, California.   Picture below is of a trip I made to Maine during the Covid times.   Hence the crazy hair and mustache ! ;) 
+![Maine-Steve| centerImage| 400](./Files/Maine-Steve800x600.png)

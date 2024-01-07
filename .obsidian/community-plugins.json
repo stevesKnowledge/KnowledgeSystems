@@ -2,5 +2,8 @@
   "obsidian-admonition",
   "mermaid-tools",
   "obsidian-mind-map",
-  "tag-wrangler"
+  "tag-wrangler",
+  "extract-url",
+  "obsidian-kanban",
+  "automatic-table-of-contents"
 ]

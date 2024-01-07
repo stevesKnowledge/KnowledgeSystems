@@ -2,7 +2,9 @@ Category: #topicMOC
 Tags: #obsidian #para #codeNotes #Zettelkasten 
 Synopsis:  THE Home Page.
 
-See [[Readme-Installation]] to get started with the Obsidian Software to use this system.
+**Related Topics**
+* See [[Readme-Installation]] to get started with the Obsidian Software to use this system.
+
 # Introduction
 Personal knowledge management systems are systems to organize your digital notes for authors, researchers, and content creators.  These systems, particularly Zettelkasten, foster creation of new original ideas, and help the author to clearly express their original ideas with references to the original content. 
 
@@ -49,7 +51,7 @@ Goal setting systems are a related area, and may also be of interest to people u
  See [[Goal Setting Systems]] 
 
 ---
-## Design Thinking
+# III. Design Thinking
 Design Thinking is a problem solving method designed to help people create truly useful products 
 
   See [Design Thinking](AtomicNotes/Design%20Thinking.md)
@@ -58,7 +60,7 @@ Design Thinking is a problem solving method designed to help people create truly
 # IV. Software And Tools 
 There are a lot of amazing software tools around nowadays that increase the power of these systems exponentially!   Check them out
 
-See [[Software Tools]]
+See [[AtomicNotes/Software Tools For Knowledge Mgmt]]
 
 
 ----
@@ -67,5 +69,6 @@ See [[Software Tools]]
 * [Readme-Installation](./Readmes/Readme-Installation.md)
 * [[Readme-Using Obsidian]] - Obsidian UI and Markdown Notes
 * [[Readme-Tag Taxonomy]] - The Tag system for this vault
- * [[Software Tools]] - Notes on software to use to do this
+ * [[AtomicNotes/Software Tools For Knowledge Mgmt]] - Notes on software to use to do this
 
+# Miscellaneous

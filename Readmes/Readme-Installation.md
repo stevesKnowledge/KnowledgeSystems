@@ -2,13 +2,18 @@ Parent:  [[HOME-Personal Knowledge Management Systems]]
 Category:  #readme 
 Tags:
 Synopsis: **How to Install Obsidian and  set up this knowledge vault** .
-## Reference 
-This knowledge vault is based on [[Author-Artem Kirsanov]].
-## Installing Tools
+
+**Table of Contents**
+```table-of-contents
+```
+# Installing Tools
 1. Install Obsidian from the [download] page.
 
 ## Obsidian Plugins
-Currently the obsidian plugins are included in the  git repo 
+Currently the obsidian plugins are included in the  git repo, which is another opinionated choice. 
+
+See the Installation steps below for how to do this 
+
 ## I. Creating a New Vault
 
 1. Create the vault folder on your local hard drive, 
@@ -36,7 +41,7 @@ Currently the obsidian plugins are included in the  git repo
 		* -> Open Cmd Palette -> Ctrl-P.  - Opens a Window to search for commands.
 		* -> Templates -> Ctrl-T.  Apply template to current note.
 		* -> Toggle Source Mode -> Ctrl+Shift+S
-	* **Core Plugins**
+* **Core Plugins**
 		* -> Tag Pane -> Enable
 		*  -> Templates -> Enable
 		*  -> Zettelkasten Prefixer -> (Leave Off) - Prefixes note names w YYMMDD
@@ -51,14 +56,19 @@ Currently the obsidian plugins are included in the  git repo
 		* [Mermaid Tools]() - Draw mermaid Diagrams
 		* [Mind Map](https://help.obsidian.md/User+interface/Use+tabs+in+Obsidian) Display Mind maps from Markdown
 		* [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Global Search and replace of Tags
-		
-	* **Templates**
-		* Template Folder Location -> Templates	  
+		* [Kanban](https://github.com/mgmeyers/obsidian-kanban) - Create a Kanban board
+		* [Obsidian Extract Url](https://github.com/trashhalo/obsidian-extract-url) - Down load web content as markdown
+		* [Automatic Table of Contents](https://github.com/johansatge/obsidian-automatic-table-of-contents) - TOC put table-of-contents in a code block (three backticks)
 
-# III. Create Note Template(s)
+## Templates
+	
+* To apply templates press Cmd-T, type template Name
+* Template Folder Location -> Templates	  
+
+###  Creating Templates
  
  1. Select the template folder 
- 2. Enter boilerplate as seen in the [[AtomicNote]] note.
+ 2. Enter boilerplate, for an example see in the [[AtomicNote]] note.
  3. To apply a template, open a note, then press Cmd-T, and type template name. 
 
 # IV. References folder
@@ -67,22 +77,27 @@ This system is often used for scholarly articles, or books, where referencing so
 You can insert references by using double square brackets, and typing the note title.  (Obsidian will autocomplete easily)
 
 # IV. Create Zettels (slips, or Notes)
-The main value of this system comes from having references and tags attached to your notes, so it is imperative that yo
+The main value of this system comes from having references and tags attached to your notes, so it is imperative that you make cross-references 
 
 1. Have an Idea, or read something you want to save. 
 2. Look for existing notes:  open the Zettelkasen folder, and press "ctrl-O", and begin typing a title.   This will display al list of related notes - you may end up adding your new stuff to an existing note.   Or if you type enough words to get no search results, you can press Enter to create a new note. 
     Alternative:  Ctrl-N to directly create a new note. 
- 3. Press Cmd+T and assign the ZK-CoreIdea template. 
+ 3. Press Cmd+T and assign the AtomicNote template. 
  4. Fill in your note,
  5. Assign tags - Use autocomplete to find existing notes
  6. Decide if you need a separate Reference page, or just fill in references in the ref section.  
 
 
 
-# References 
+# Reference
+
+This knowledge vault is based on info I learned from [[Author-Artem Kirsanov]].
+
 Additional Readmes: 
 
- * [[Readme-Tag Taxonomy]]
- * [[Readme-Using Obsidian]]
+ * [[Readme-Tag Taxonomy]] - List of Tags 
+ * [Readme-Installation](Readme-Installation.md) - Installing and Settings for Obsidian 
+ * [[Readme-Using Obsidian]] - Some usage notes and info on Markdown
+ * [Readme - Tag Page](Readme%20-%20Tag%20Page.md) - Notes about Tag Wrangler plugin to rename tags easily
 
  
